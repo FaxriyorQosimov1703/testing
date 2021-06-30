@@ -1,0 +1,8 @@
+.postCard{
+    height: 300px;
+    box-shadow: 0 0 3px;
+}
+.postCard:hover {
+    box-shadow: 0 0 10px;
+    cursor: pointer;
+}
